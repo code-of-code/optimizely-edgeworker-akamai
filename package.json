@@ -25,7 +25,7 @@
         "build-full-deploy": "npm run update-datafile && npm run update-bundle && npm run build-rollup && npm run build-tar && npm run build-upload"
     },
     "dependencies": {
-        "@optimizely/optimizely-sdk": "^4.4.3",
+        "@optimizely/optimizely-sdk": "^4.9.2",
         "exec-sh": "^0.4.0",
         "jsonata": "^1.8.4",
         "node-fetch": "^2.6.1",
